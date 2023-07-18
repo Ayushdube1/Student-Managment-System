@@ -1,2 +1,2 @@
 # Student-Managment-System
-Student management System using C++ I used File Handling Concept to Store A data
+Student management System using C++. This is my first basic project of c++. 
